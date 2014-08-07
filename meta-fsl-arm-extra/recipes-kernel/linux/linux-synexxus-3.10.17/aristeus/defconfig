@@ -1,7 +1,7 @@
 #
 # Automatically generated file; DO NOT EDIT.
 # Linux/arm 3.10.17 Kernel Configuration
-#
+# 08/07/2014: ARISTEUS
 CONFIG_ARM=y
 CONFIG_MIGHT_HAVE_PCI=y
 CONFIG_SYS_SUPPORTS_APM_EMULATION=y
